@@ -1,0 +1,14 @@
+Administradores:
+
+Usuario: PORTAFOLIO
+Contraseña: PORTAFOLIO
+
+Cliente:
+
+Usuario: CLIENTE
+Contraseña: micli123
+
+Empleado;
+
+Usuario: EMPLEADO
+Contraseña: miemp123
